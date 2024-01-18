@@ -2,10 +2,11 @@
 
 A passionate software engineer with 13 years of hands-on experience, specializing in Django and FastAPI for robust backend solutions, and React/Vue for creating immersive front-end experiences. 
 
-
+[![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90%20My_website-333333?style=flat-square)](https://carlosyslas.com/#gh-dark-mode-only)
 [![Static Badge](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:carlos.yslasa@gmail.com#gh-dark-mode-only)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carlos-yslas/#gh-dark-mode-only)
 <!--[![Static Badge](https://img.shields.io/badge/YouTube-333333?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCGA1qNGi2vym77nhk9Bom_A#gh-dark-mode-only)-->
+[![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90%20My_website-333333?style=flat-square)](https://carlosyslas.com/#gh-light-mode-only)
 [![Static Badge](https://img.shields.io/badge/Email-dddddd?style=flat-square&logo=gmail&logoColor=333333)
 ](mailto:carlos.yslasa@gmail.com#gh-light-mode-only)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-dddddd?style=flat-square&logo=linkedin&logoColor=333333)](https://www.linkedin.com/in/carlos-yslas/#gh-light-mode-only)
