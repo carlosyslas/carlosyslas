@@ -17,7 +17,7 @@ Senior Software Engineer with 14 years of experience in full-stack development, 
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux,emacs)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux,emacs&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 
