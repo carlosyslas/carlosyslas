@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Carlos Yslas
 
-Senior Software Engineer with 14 years of experience in full-stack development, specializing in backend technologies like **FastAPI**, **Flask**, and **Django**. Passionate about building scalable, high-quality software and tackling complex challenges.
+Senior Software Engineer with 15 years of experience in full-stack development, specializing in backend technologies like **Django** and **Vue.js**. Passionate about building scalable, high-quality software and tackling complex challenges.
 
 [![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90%20My_website-333333?style=flat-square)](https://carlosyslas.com/#gh-dark-mode-only)
 [![Static Badge](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:carlos.yslasa@gmail.com#gh-dark-mode-only)
@@ -17,7 +17,7 @@ Senior Software Engineer with 14 years of experience in full-stack development, 
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux,emacs)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,vue,linux,emacs&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=django,vue,linux,emacs)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=django,vue,linux,emacs&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 
